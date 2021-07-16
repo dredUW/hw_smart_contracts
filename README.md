@@ -5,4 +5,6 @@ In this assignment we were tasked with creating three different smart contracts.
 
 *TieredProfitSplitter was the second contract and it received ETH and distributed it based upon the employee's position within the company.  
 
-*The final contract was DeferredEquityPlan. The contract distributed shares based upon the employees tenure.
+*The final contract was DeferredEquityPlan. The contract distributed shares based upon the employees tenure.  
+
+Included in the folder are screen shots of the code in Remix and the actual code in text files.
